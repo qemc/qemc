@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/qemc/qemc/blob/main/hello_there.gif" alt="Cool GIF" />
+</p>
+
 <h2 align="left">Hi 👋! My name is Grzegorz, just a curious person :)</h2>
 
 ###
