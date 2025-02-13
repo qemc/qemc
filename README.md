@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/qemc/qemc/blob/main/hello_there.gif" alt="Cool GIF" />
+  <img src="https://raw.githubusercontent.com/qemc/qemc/main/hello_there.gif" alt="Cool GIF" />
 </p>
 
-<h2 align="left">Hi 👋! My name is Grzegorz, just a curious person :)</h2>
+<h2 align="left">Hello There! My name is Grzegorz, just a curious person :)</h2>
 
 ###
 
